@@ -46,7 +46,7 @@ Whether it's web, mobile, or experimenting with new tech — I love learning and
 ## 🔗 Connect with Me
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/valentobardhoshi"> 
+  <a href="www.linkedin.com/in/valentobardhoshi"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
   <a href="mailto:valentobardhoshi1@gmail.com"> 
