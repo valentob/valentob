@@ -6,7 +6,7 @@
 
 I'm a software developer who enjoys building smart, secure, and meaningful applications.  
 I focus on **AI** and **software development**, with an eye for clean design and scalable solutions.  
-Whether it's web, mobile, or experimenting with new tech — I love learning and building.
+Whether it's web, mobile, or experimenting with new tech, I love learning and building.
 
 
 ## 🛠️ Tech Stack
