@@ -23,17 +23,6 @@ Whether it's web, mobile, or experimenting with new tech — I love learning and
 ### Tools & DevOps
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma,linux" alt="Tools & DevOps" /> </p>
 
-## 🔭 Current Projects
-
-- Working on AI-based emotion detection for healthcare  
-- Experimenting with scalable full-stack web apps
-
-## 🌱 I'm Currently Learning
-
-- Deep Learning and AI  
-- Cloud integration
-- Secure software architecture
-
 ## 📊 GitHub Stats
 
 <div align="center"> 
@@ -56,6 +45,6 @@ Whether it's web, mobile, or experimenting with new tech — I love learning and
 
 ---
 
-🌱 *"Code what matters. Learn endlessly. Stay curious."*
+🌱 *"Contact me if you want to collaborate or work with. I'm open to new ideas and opportunities"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
